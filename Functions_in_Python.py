@@ -10,7 +10,7 @@
 # [1] Valentyn N Sichkar. Creating functions in Python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Functions_in_Python (date of access: XX.XX.XXXX)
 
 """
-Created on Mon Dec 25 22:24:34 2017
+Created on Thu Jan 11 16:16:24 2018
 
 @author: Valentyn
 """
