@@ -3,7 +3,7 @@
 # Environment: Spyder IDE in Anaconda environment
 #
 # MIT License
-# Copyright (c) 2017 Valentyn N Sichkar
+# Copyright (c) 2018 Valentyn N Sichkar
 # github.com/sichkar-valentyn
 #
 # Reference to:
